@@ -1,9 +1,8 @@
 def helloworld(a):
-  msg = f"Hello world! {a}!"
-  print(msg)
-  return msg
+    msg = f"Hello world! {a}!"
+    print(msg)
+    return msg
 
 
 if __name__ == "__main__":
-  helloworld("Caleb")
-
+    helloworld("Caleb")
