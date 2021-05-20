@@ -1,0 +1,3 @@
+black==19.10b0 #black: 자동 lint(코드 정렬)
+coverage==4.3
+codeclimate-test-reporter==0.2.3
